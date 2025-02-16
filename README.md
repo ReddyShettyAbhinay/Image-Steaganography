@@ -16,7 +16,7 @@ This project is a Python-based application that implements steganography to secu
 - Cryptography: Library for implementing encryption algorithms.
 
 ## Installation
-1. Clone the repository: git clone https://github.com/ReddyShettyAbhinay/Image-Steaganography.git
+1. Clone the repository: git clone https://github.com/ReddyShettyAbhinay/Image-Steganography.git
 2. Navigate to the project directory
 3. Install the required libraries
 
